@@ -54,8 +54,13 @@ python3 -m http.server 4175 --directory src
 - [x] 加入来源链接和核验状态
 - [x] 做一个从问题到 brief 的完整演示样例
 - [x] 已核对当前规则页面并记录日期/披露冲突；最终主办方确认仍属外部事项
-- [x] 已准备本地演示、内容哈希清单和 Devpost 草稿；账号、团队资料、公开链接与媒体素材仍需在提交时补齐
+- [x] 已准备本地演示、内容哈希清单、公开仓库、HTTPS Demo 和 Devpost 草稿；账号、团队资料与媒体素材仍需在提交时补齐
 - [x] 已用临时 Playwright Chromium 完成桌面、手机、平板、打印、导出和 CSP/runtime 检查；结果见 `submission/QA_REPORT.md`
+
+公开交付：
+
+- Repository: `https://github.com/csmar432/evidence-sprint-board-hack-the-limit-2026`
+- HTTPS Demo: `https://csmar432.github.io/evidence-sprint-board-hack-the-limit-2026/`
 
 ## 投稿须知
 

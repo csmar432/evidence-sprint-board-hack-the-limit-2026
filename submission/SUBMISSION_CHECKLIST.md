@@ -26,7 +26,7 @@ Current Schedule snapshot: submissions June 18, 2026 at 2:00am PDT through Augus
 | Content hash manifest | Ready | SHA-256 manifest covers all non-derived project files, including placeholders; the manifest itself is excluded to avoid a circular self-hash |
 | Schedule / deadline | Needs organizer confirmation | Overview header, Schedule and Rules header show Aug 29, 2026 11:45pm PDT; Rules “Dates (Subject to Change)” body shows Jul 29, 2026 9:00pm PDT |
 | Screenshot / video / project file proof | Project file and final screenshots ready; video pending | Devpost requires at least one proof-of-work option; record/approve the public-facing video |
-| Public repository / live demo | Pending publication | Publish only after choosing the destination and confirming access |
+| Public repository / live demo | Ready | Repository: https://github.com/csmar432/evidence-sprint-board-hack-the-limit-2026 · HTTPS Demo: https://csmar432.github.io/evidence-sprint-board-hack-the-limit-2026/ |
 | Team details | Needs human input | Solo is allowed; otherwise list 1–5 members and every role in Devpost |
 
 ## Participant eligibility confirmation
@@ -46,7 +46,7 @@ All boxes must be true for every participant; local files cannot establish them.
 | Execution & Build Quality | 30% | Functional single-file MVP; validation, persistence, backup, Markdown and print flows pass | Re-run the final hosted build before submission |
 | Originality | 25% | Evidence hand-offs keep source definitions, units and caveats beside the work | Avoid claiming market novelty without competitor research; explain the design choice in the demo |
 | Value & Impact | 20% | Concrete student research workflow using a 2022 World Bank secondary-enrollment context | Obtain and honestly summarize real student feedback |
-| User Experience | 15% | Desktop/mobile layouts and the core end-to-end flow pass automated browser checks | Project owner should review the final screenshots and complete one manual phone run |
+| User Experience | 15% | Desktop/mobile layouts and the core end-to-end flow pass automated browser checks; hosted URL returns 200 | Project owner should review the final screenshots and complete one manual phone run |
 | Presentation Quality | 10% | Devpost draft, 90-second script, exported brief and final screenshots are prepared | Record/approve the final media and replace local-only links |
 
 ## Quality gates before submitting
@@ -58,10 +58,10 @@ All boxes must be true for every participant; local files cannot establish them.
 - [x] Embedded JavaScript syntax check passes.
 - [x] Local HTTP preview returns the intended page on port 4175.
 - [x] Test the complete demo at desktop width and a phone-sized viewport with Playwright.
-- [x] Demo data uses one concrete public-data research scenario: a bounded secondary-school support discussion with unit, country, year and caveat.
+- [x] Demo data uses one concrete public-data research scenario: China secondary-education enrollment in 2022 with unit, source, country, year and caveat.
 - [ ] Collect a small amount of real student feedback and state the result honestly.
 - [ ] Record and approve the final 90-second demo video.
-- [ ] Add the final repository/demo URL and real team details.
+- [x] Add the final repository/demo URL; real team details remain pending.
 - [x] Default Markdown download exactly matches `evidence-sprint-brief.md`; board backup, print/PDF, persistence, edit/delete/reset and responsive checks pass.
 - [x] Representative first-time-student path was independently simulated; real student feedback remains pending.
 - [x] Notion/Trello boundary and the evidence-hand-off differentiator are documented in `COMPETITOR_POSITIONING.md`.

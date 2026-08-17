@@ -56,6 +56,8 @@ The initial concept page and project README existed before the current implement
 - Working MVP: `src/index.html`
 - Local run command: `python3 -m http.server 4175 --directory src`
 - Demo URL during development: `http://127.0.0.1:4175/`
+- Public repository: https://github.com/csmar432/evidence-sprint-board-hack-the-limit-2026
+- Hosted HTTPS demo: https://csmar432.github.io/evidence-sprint-board-hack-the-limit-2026/
 - Demo walkthrough: `submission/DEMO_SCRIPT.md`
 - Example exported brief: `submission/evidence-sprint-brief.md`
 - Final desktop proof: `submission/evidence-sprint-board-desktop.png`
@@ -76,7 +78,7 @@ We kept the product small enough to understand in one sitting while still closin
 ## Submission checks before publishing
 
 - [x] Current Devpost pages checked on 2026-08-16; pre-existing-code/AI disclosure notes and the Overview/Schedule/Rules-header versus Rules-body deadline conflict are recorded, with final organizer confirmation still external.
-- [ ] Replace the local demo URL with the final repository and hosted/demo links if required.
+- [x] Replace the local demo URL with the final repository and hosted/demo links.
 - [x] Capture desktop and mobile board views; project owner must approve the public-facing selection.
 - [ ] Verify that every claim in the final video and copy is supported by the actual demo.
 - [ ] Add final team/member information.
