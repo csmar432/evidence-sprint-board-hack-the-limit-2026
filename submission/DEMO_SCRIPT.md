@@ -56,3 +56,6 @@ The final Devpost description should name the boundary plainly: Notion and Trell
 - [ ] Checklist at a complete progress state
 - [ ] Brief editor and export buttons
 - [ ] Exported `.md` file opened once for proof
+- [x] Automated 90-second MP4 draft: `submission/evidence-sprint-board-demo.mp4`
+
+The MP4 is a caption-free visual walkthrough recorded from the hosted HTTPS Demo. It shows the source register, the `secondary-level enrolled pupils; China; 2022` unit, the completed checks and the caveat in the shareable brief. Add approved narration or captions only after the project owner reviews the public-facing cut.

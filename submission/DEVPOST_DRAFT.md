@@ -62,6 +62,7 @@ The initial concept page and project README existed before the current implement
 - Example exported brief: `submission/evidence-sprint-brief.md`
 - Final desktop proof: `submission/evidence-sprint-board-desktop.png`
 - Final mobile proof: `submission/evidence-sprint-board-mobile.png`
+- 90-second demo video draft: `submission/evidence-sprint-board-demo.mp4`
 - Automated QA report: `submission/QA_REPORT.md`
 - Content-verifiable file manifest: `submission/MANIFEST.sha256`
 

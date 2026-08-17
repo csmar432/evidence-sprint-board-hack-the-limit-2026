@@ -25,7 +25,7 @@ Current Schedule snapshot: submissions June 18, 2026 at 2:00am PDT through Augus
 | Example exported brief | Ready | `evidence-sprint-brief.md` |
 | Content hash manifest | Ready | SHA-256 manifest covers all non-derived project files, including placeholders; the manifest itself is excluded to avoid a circular self-hash |
 | Schedule / deadline | Needs organizer confirmation | Overview header, Schedule and Rules header show Aug 29, 2026 11:45pm PDT; Rules “Dates (Subject to Change)” body shows Jul 29, 2026 9:00pm PDT |
-| Screenshot / video / project file proof | Project file and final screenshots ready; video pending | Devpost requires at least one proof-of-work option; record/approve the public-facing video |
+| Screenshot / video / project file proof | Project file, final screenshots and 90-second MP4 draft ready; owner approval pending | Devpost requires at least one proof-of-work option; approve/upload the public-facing video |
 | Public repository / live demo | Ready | Repository: https://github.com/csmar432/evidence-sprint-board-hack-the-limit-2026 · HTTPS Demo: https://csmar432.github.io/evidence-sprint-board-hack-the-limit-2026/ |
 | Team details | Needs human input | Solo is allowed; otherwise list 1–5 members and every role in Devpost |
 
@@ -60,7 +60,7 @@ All boxes must be true for every participant; local files cannot establish them.
 - [x] Test the complete demo at desktop width and a phone-sized viewport with Playwright.
 - [x] Demo data uses one concrete public-data research scenario: China secondary-education enrollment in 2022 with unit, source, country, year and caveat.
 - [ ] Collect a small amount of real student feedback and state the result honestly.
-- [ ] Record and approve the final 90-second demo video.
+- [x] Record the automated 90-second demo video; owner approval and final upload remain pending.
 - [x] Add the final repository/demo URL; real team details remain pending.
 - [x] Default Markdown download exactly matches `evidence-sprint-brief.md`; board backup, print/PDF, persistence, edit/delete/reset and responsive checks pass.
 - [x] Representative first-time-student path was independently simulated; real student feedback remains pending.

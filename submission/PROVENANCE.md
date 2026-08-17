@@ -16,6 +16,7 @@ The final submission should distinguish this baseline from the functionality add
 - Added local card creation/deletion, source registration, URL validation, checklist progress, local persistence, validated board backup/restore, brief editing and Markdown/PDF output.
 - Updated `README.md` with the run command and implementation status.
 - Added the Devpost draft, demo script and submission checklist.
+- Added responsive final screenshots, automated QA evidence and a 90-second hosted-demo video draft.
 
 ## AI-assisted development disclosure
 
